@@ -1,10 +1,3 @@
-# Java-Command-line-projects
-Perfect 👌 Since you're building a **Java-Command-line-projects** repository, here is a **professional, GitHub-ready combined README.md** for all projects together.
-
-You can copy this directly into your root `README.md`.
-
----
-
 # 🚀 Java Command Line Projects
 
 ![Image](https://www.btechsmartclass.com/java/java_images/java-console-writing-using-write.png)
