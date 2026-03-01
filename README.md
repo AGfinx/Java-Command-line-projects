@@ -239,4 +239,4 @@ If you'd like, Abhijeet, I can next:
 * 🏗️ Suggest a scalable package structure
 * 📦 Convert to Maven-based multi-module project
 
-What level do you want this repo to look like — student, strong fresher, or job-ready professional?
+
